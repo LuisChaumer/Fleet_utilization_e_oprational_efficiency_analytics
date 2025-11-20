@@ -58,23 +58,27 @@ Data reflects realistic fleet behavior via exponential & uniform distributions.
 
 ## 📈 Exploratory Analysis
 
-### **1. Trip Duration Distribution**
-![Trip Duration](images/trip_duration.png)
+### 1. Trip Duration Distribution
+
+![Trip Duration](imagenes/trip_duration.png)
 
 ---
 
-### **2. Mileage Distribution**
-![Mileage](images/mileage_distribution.png)
+### 2. Mileage Distribution
+
+![Mileage](imagenes/mileage_distribution.png)
 
 ---
 
-### **3. Idle Time After Trips**
-![Idle Time](images/idle_distribution.png)
+### 3. Idle Time After Trips
+
+![Idle Time](imagenes/idle_distribution.png)
 
 ---
 
-### **4. Trips by Region**
-![Trips by Region](images/trips_by_region.png)
+### 4. Trips by Region
+
+![Trips by Region](imagenes/trips_by_region.png)
 
 ---
 
